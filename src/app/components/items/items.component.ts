@@ -17,14 +17,14 @@ export class ItemsComponent implements OnInit{
     {
       id: 0,
       title: 'manzana',
-      prince: 10.5,
+      price: 10.5,
       quantity: 4,
       completed: false
     },
     {
       id: 1,
       title: 'pan',
-      prince: 3.5,
+      price: 3.5,
       quantity: 8,
       completed: true
     }
